@@ -2,18 +2,8 @@
   <img src="https://telegra.ph/file/af26c1bac43296899543b.jpg" alt="ᗴᐯᗩᗷᝪᎢᐯ2">
 </p>
 <h1 align="center">
-  <b>Kuttu Bot</b>
+  <b>ᗴᐯᗩᗷᝪᎢ ᐯ2</b>
 </h1>
-
-
-[![Stars](https://img.shields.io/github/stars/GouthamSER/EvaMaria?style=flat-square&color=yellow)](https://github.com/GouthamSER/EvaMaria/stargazers)
-[![Forks](https://img.shields.io/github/forks/GouthamSER/EvaMaria?style=flat-square&color=orange)](https://github.com/GouthamSER/EvaMaria/fork)
-[![Size](https://img.shields.io/github/repo-size/GouthamSER/EvaMaria?style=flat-square&color=green)](https://github.com/GouthamSER/EvaMaria/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/GouthamSER/EvaMaria)   
-[![Contributors](https://img.shields.io/github/contributors/GouthamSER/EvaMaria?style=flat-square&color=green)](https://github.com/GouthamSER/EvaMaria/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/GouthamSER/EvaMaria/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/GouthamSER/EvaMaria.svg)](https://stars.medv.io/GouthamSER/EvaMaria)
-
 
 ## Features
 
