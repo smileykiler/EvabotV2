@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="KuttuBot">
+  <img src="https://telegra.ph/file/af26c1bac43296899543b.jpg" alt="ᗴᐯᗩᗷᝪᎢᐯ2">
 </p>
 <h1 align="center">
   <b>Kuttu Bot</b>
